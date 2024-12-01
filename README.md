@@ -8,11 +8,11 @@ Currently leading the charge in the DSA and CP domain at GDC on Campus, where we
 - 👯 I’m looking to collaborate on projects related to my interests
 - 💬 Ask me about anything related to my interests
 - ✉️ You can contact me at [saharitam963@gmail.com](mailto:saharitam963@gmail.com)
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ritamsaha137)
+- 📫 How to reach me: [My Links](https://linktr.ee/Ritamsworkspace137)
 - 🌟 Pronouns: He/Him
 - ⚡ Fun fact: I love to watch Sci-fi movies in my free time
 
-My Portfolio🤗---> [My Portfolio](https://ritam-saha.vercel.app/) 
+[My Portfolio](https://ritam-saha.vercel.app/)🤗
 
 
 # 💻 Tech Stack:
