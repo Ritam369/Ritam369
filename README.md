@@ -22,7 +22,7 @@ Currently leading the charge in the DSA and CP domain at GDC on Campus, where we
 [![My Skills](https://skillicons.dev/icons?i=java,python,c)](https://skillicons.dev)
 
 
-<h2>Databases/ORM</h2>
+<h2>Databases</h2>
   
 [![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 
