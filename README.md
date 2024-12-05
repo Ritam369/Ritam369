@@ -1,6 +1,6 @@
 # Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ritam Saha 
 
-Hey there! I'm Ritam, a 2nd year Computer Science Engineering student at Bengal Institute of Technology, with a passion for turning coffee into code and problems into solutions. ☕💻  
+Hey there! I'm Ritam, a sophomore Computer Science Engineering student at Bengal Institute of Technology, with a passion for turning coffee into code and problems into solutions. ☕💻  
 Currently leading the charge in the DSA and CP domain at GDC on Campus, where we turn algorithms into our personal playground. 🎯 Master of the clock and team synergy - I make deadlines tremble and group projects sing! ⏰🤝
 
 - 🔭 I’m currently pursuing my BTech
