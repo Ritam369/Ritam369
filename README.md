@@ -34,7 +34,7 @@ Currently leading the charge in the DSA and CP domain at GDG on Campus Bengal In
 
 <h2>Tools</h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,notion)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,notion,canva)  
 
 
 <h2>Familiar Operating Systems<h2/>
