@@ -19,12 +19,17 @@ Currently leading the charge in the DSA and CP domain at GDG on Campus Bengal In
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,html,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,js)](https://skillicons.dev)
+
+
+<h2>Frameworks/Libraries<h2/>
+  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs&perline=12)
 
 
 <h2>Databases</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
 
 
 <h2>IDEs</h2>  
