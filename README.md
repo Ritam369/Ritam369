@@ -4,7 +4,7 @@ Hey there! I'm Ritam, a sophomore Computer Science Engineering student at Bengal
 Currently leading the charge in the DSA and CP domain at GDG on Campus Bengal Institute of Technology, where we turn algorithms into our personal playground. 🎯 Master of the clock and team synergy - I make deadlines tremble and group projects sing! ⏰🤝
 
 - 🔭 I’m currently pursuing my BTech
-- 🌱 I’m interested in Web DSA, CP, AI/ML, and Cybersecurity
+- 🌱 I’m interested in Web Dev, DSA, CP, and very much passionate about the current technologies!!
 - 👯 I’m looking to collaborate on projects related to my interests
 - 💬 Ask me about anything related to my interests
 - ✉️ You can contact me at [saharitam963@gmail.com](mailto:saharitam963@gmail.com)
