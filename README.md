@@ -1,15 +1,15 @@
 # Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ritam Saha 
 
-Hey there! I'm Ritam, a sophomore Computer Science Engineering student at Bengal Institute of Technology, with a passion for turning coffee into code and problems into solutions. ☕💻  
-Currently leading the charge in the DSA and CP domain at GDG on Campus Bengal Institute of Technology, where we turn algorithms into our personal playground. 🎯 Master of the clock and team synergy - I make deadlines tremble and group projects sing! ⏰🤝
+🚀Hello! I’m Ritam, a second-year Computer Science Engineering student at Bengal Institute of Technology, passionate about building innovative tech solutions and continuously exploring new technologies.. ☕💻  
+I currently lead the DSA and Competitive Programming domain at Google Developer Group (GDG) on Campus, where I mentor peers and cultivate a strong problem-solving culture. 🤝
 
-- 🔭 II’m currently working on Full-Stack Web Development (MERN Stack)
+- 🔭 Currently diving deep into **Full-Stack Web Development (MERN Stack)**
 - 🌱 I’m interested in Web Dev, DSA, CP, and passionate about the current technologies!!
-- 👯 I’m looking to collaborate on web development projects and hackathons
-- 💬 Ask me about anything related to my interests
-- ✉️ You can contact me at [saharitam963@gmail.com](mailto:saharitam963@gmail.com)
-- 📫 How to reach me: [My Links](https://linktr.ee/Ritamsworkspace137)
-- 🌟 Pronouns: He/Him
+- 👯 Looking to collaborate on **Web development projects**, **Open Source contributions**, and **Hackathons**
+- 💬 Ask me anything about **DSA, CP, Web Dev, or tech journeys** — always happy to connect
+- ✉️ You can contact me at **[saharitam963@gmail.com](mailto:saharitam963@gmail.com)**
+- 📫 Find all my links here: **[My Links](https://linktr.ee/Ritamsworkspace137)**
+- 🌟 Pronouns: **He/Him**
 - ⚡ Fun fact: I love to watch Sci-fi movies in my free time
 
 [My Portfolio](https://ritam-saha.vercel.app/)🤗
