@@ -3,9 +3,9 @@
 Hey there! I'm Ritam, a sophomore Computer Science Engineering student at Bengal Institute of Technology, with a passion for turning coffee into code and problems into solutions. ☕💻  
 Currently leading the charge in the DSA and CP domain at GDG on Campus Bengal Institute of Technology, where we turn algorithms into our personal playground. 🎯 Master of the clock and team synergy - I make deadlines tremble and group projects sing! ⏰🤝
 
-- 🔭 I’m currently pursuing my BTech
-- 🌱 I’m interested in Web Dev, DSA, CP, and very much passionate about the current technologies!!
-- 👯 I’m looking to collaborate on projects related to my interests
+- 🔭 II’m currently working on Full-Stack Web Development (MERN Stack)
+- 🌱 I’m interested in Web Dev, DSA, CP, and passionate about the current technologies!!
+- 👯 I’m looking to collaborate on web development projects and hackathons
 - 💬 Ask me about anything related to my interests
 - ✉️ You can contact me at [saharitam963@gmail.com](mailto:saharitam963@gmail.com)
 - 📫 How to reach me: [My Links](https://linktr.ee/Ritamsworkspace137)
