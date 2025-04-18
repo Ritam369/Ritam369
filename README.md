@@ -24,7 +24,7 @@ I currently lead the DSA and Competitive Programming domain at Google Developer 
 
 <h2>Frameworks/Libraries<h2/>
   
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs&perline=12)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,expressjs&perline=12)
 
 
 <h2>Databases</h2>
