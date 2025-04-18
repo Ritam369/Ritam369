@@ -57,8 +57,8 @@ I currently lead the DSA and Competitive Programming domain at Google Developer 
 ## 📊 GitHub Analysis
 
 ![Ritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritam369&show_icons=true&theme=radical)
-<!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritam369&theme=tokyonight" alt="GitHub Streak Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ritam369&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritam369&theme=tokyonight" alt="GitHub Streak Stats" />
+<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ritam369&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />-->
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Ritam369&label=Profile%20views&color=brightgreen&style=flat" alt="Ritam369" />
