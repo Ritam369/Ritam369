@@ -56,12 +56,12 @@ I currently lead the DSA and Competitive Programming domain at Google Developer 
 
 # 📊 GitHub Analysis
 
-![Ritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritam369&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritam369&theme=tokyonight" alt="GitHub Streak Stats" />
+![Ritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritam369&show_icons=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ritam369&stroke=3382ed&background=000000&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" alt="GitHub Streak Stats" />
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ritam369&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />-->
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=Ritam369&label=Profile%20views&color=brightgreen&style=flat" alt="Ritam369" />
+  <img src="https://komarev.com/ghpvc/?username=Ritam369&stroke=3382ed&background=000000&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" alt="Ritam369" />
 </p>
 
 Let's connect and create something amazing together!
