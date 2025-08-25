@@ -1,12 +1,11 @@
 # Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ritam Saha 
 
-🚀Hello! I’m Ritam, a second-year Computer Science Engineering student at Bengal Institute of Technology, passionate about building innovative tech solutions and continuously exploring new technologies.. ☕💻  
-I currently lead the DSA and Competitive Programming domain at Google Developer Group (GDG) on Campus, where I mentor peers and cultivate a strong problem-solving culture. 🤝
+🚀Hello! I’m Ritam, a third-year Computer Science Engineering student at Techno Bengal Institute of Technology, passionate about building innovative tech solutions and continuously exploring new technologies.. ☕💻  
 
 - 🔭 Currently diving deep into **Full-Stack Web Development (MERN Stack)**
-- 🌱 I’m interested in Web Dev, DSA, CP, and passionate about the current technologies!!
+- 🌱 I’m interested in Web Dev, DSA, and passionate about the current technologies!!
 - 👯 Looking to collaborate on **Web development projects**, **Open Source contributions**, and **Hackathons**
-- 💬 Ask me anything about **DSA, CP, Web Dev, or tech journeys** — always happy to connect
+- 💬 Ask me anything about **DSA, Web Dev, or tech journeys** — always happy to connect
 - ✉️ You can contact me at **[saharitam963@gmail.com](mailto:saharitam963@gmail.com)**
 - 📫 Find all my links here: **[My Links](https://linktr.ee/Ritamsworkspace137)**
 - 🌟 Pronouns: **He/Him**
