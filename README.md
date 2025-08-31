@@ -118,16 +118,16 @@
     <br />
   </div>
 
-<p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ritam369&stroke=3382ed&background=000000&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" alt="Ritam369" />
 </p>
 
 ---
 
 <p align="center">
-  <b>⚡ Let’s connect and craft something extraordinary together! ⚡</b>
+  <em><b>⚡ Let’s connect and craft something extraordinary together! ⚡</b></em>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&section=footer"/>
 </p>
