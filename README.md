@@ -37,12 +37,12 @@
 
 <h2>Tools</h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,notion,canva)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vite,notion,canva)  
 
 
 <h2>Familiar Operating Systems<h2/>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,centos,android)
 
 
 # 🌐 Connect with Me
