@@ -53,15 +53,81 @@
 [![Instagram](https://img.shields.io/badge/Instagram-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_r_i_t_a_m_s_a_h_a_/) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/saharitam963) 
 
+---
+
 # 📊 GitHub Analysis
 
-<!--![Ritam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritam369&show_icons=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true)-->
-<img style="width: 65%" src="https://github-readme-stats.vercel.app/api?username=Ritam369&show_icons=true&title_color=0891b2&text_color=3382ed&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="Ritam's GitHub Stats" />
-<img style="width: 65%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ritam369&stroke=3382ed&background=000000&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" alt="GitHub Streak Stats" />
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ritam369&show_icons=true&theme=tokyonight&layout=compact" alt="Top Languages" />-->
+
+  <div style="margin: 20px 0">
+    <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
+      <tr>
+        <td style="text-align: center; padding: 10px">
+          <a href="https://git.io/streak-stats">
+            <img
+              src="https://streak-stats.demolab.com/?user=Ritam369&theme=transparent&hide_border=true&card_width=1000&ring=39D353&fire=39D353&currStreakNum=39D353&sideNums=39D353&currStreakLabel=AFAFAF&sideLabels=AFAFAF&dates=39D353"
+              alt="GitHub Streak"
+              style="border-radius: 5px"
+            />
+          </a>
+        </td>
+      </tr>
+    </table>
+    <table style="width: 100%; margin-bottom: 20px">
+      <tr>
+        <td style="text-align: center; padding: 10px; border: 1px solid #555">
+          <a href="#--------">
+            <img
+              height="215px"
+              alt="GitHub Stats"
+              src="https://github-readme-stats.vercel.app/api?username=Ritam369&count_private=true&show_icons=true&include_all_commits=true&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=39D353&icon_color=AFAFAF"
+            />
+          </a>
+        </td>
+        <td
+          style="
+            text-align: center;
+            padding: 10px;
+            border: 1px solid #555;
+            border-spacing: 100px;
+          "
+        >
+          <a href="#--------">
+            <img
+              height="215px"
+              alt="Top Language"
+              src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritam369&layout=compact&line_height=21&hide_border=true&theme=transparent&title_color=39D353&text_color=AFAFAF&icon_color=39D353"
+              style="border-radius: 5px"
+            />
+          </a>
+        </td>
+      </tr>
+    </table>
+    <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
+      <tr>
+        <td style="text-align: center; padding: 10px">
+          <a href="#--------">
+            <img
+              width="100%"
+              style="border-radius: 5px"
+              src="https://github-readme-activity-graph.vercel.app/graph?username=Ritam369&theme=github-compact&hide_border=true"
+            />
+          </a>
+        </td>
+      </tr>
+    </table>
+    <br />
+  </div>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=Ritam369&stroke=3382ed&background=000000&ring=0891b2&fire=0891b2&currStreakNum=3382ed&currStreakLabel=0891b2&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" alt="Ritam369" />
 </p>
 
-Let's connect and create something amazing together!
+---
+
+<p align="center">
+  <b>⚡ Let’s connect and craft something extraordinary together! ⚡</b>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
