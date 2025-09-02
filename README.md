@@ -124,9 +124,19 @@
 
 ---
 
-<p align="center">
-  <em><b>⚡ Let’s connect and craft something extraordinary together! ⚡</b></em>
-</p>
+<!--<div align="center">
+  ## *Let’s connect and craft something extraordinary together!*
+</div>-->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=67D8EF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!😊;It's+time+to+build+something+amazing!🦾🚀;" alt="Thanks" />
+
+### *Let’s connect and craft something extraordinary together!* ☕💻
+
+**Star ⭐ this repo if you found it interesting!**
+
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=85&section=footer"/>
