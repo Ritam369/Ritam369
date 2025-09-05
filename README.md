@@ -47,7 +47,7 @@
 
 # 🌐 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-grey.svg?logo=vercel&logoColor=white)](https://ritamsaha.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-grey.svg?logo=vercel&logoColor=white)](https://www.ritamsaha.me/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritamsaha137)
 [![Facebook](https://img.shields.io/badge/Facebook-blue.svg?logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080013277806&mibextid=ZbWKwL) 
 [![Instagram](https://img.shields.io/badge/Instagram-purple.svg?logo=instagram&logoColor=white)](https://www.instagram.com/_r_i_t_a_m_s_a_h_a_/) 
