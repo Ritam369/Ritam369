@@ -37,7 +37,7 @@
 
 <h2>Tools</h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vite,npm,bun,notion,canva)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vite,warp,npm,bun,notion,canva)  
 
 
 <h2>Familiar Operating Systems<h2/>
