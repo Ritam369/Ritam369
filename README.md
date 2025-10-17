@@ -1,12 +1,12 @@
-# Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ritam Saha 
+# Hi, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ritam 
 
-🚀Hello! I’m Ritam, a third-year Computer Science Engineering student at Techno Bengal Institute of Technology, passionate about building innovative tech solutions and continuously exploring new technologies.. ☕💻  
+🚀A third-year Computer Science Engineering student at Techno Bengal Institute of Technology, passionate about building innovative tech solutions and continuously exploring new technologies.. ☕💻  
 
 - 🔭 Currently diving deep into **Full-Stack Web Development (MERN Stack)**
-- 🌱 I’m interested in Web Dev, DSA, and passionate about the current technologies!!
+- 🌱 I’m interested in Web Dev, DSA, and passionate about the current AI trends!!
 - 👯 Looking to collaborate on **Web development projects**, **Open Source contributions**, and **Hackathons**
 - 💬 Ask me anything about **DSA, Web Dev, or tech journeys** — always happy to connect
-- ✉️ You can contact me at **[saharitam963@gmail.com](mailto:saharitam963@gmail.com)**
+- ✉️ You can contact me at **[itzritam369@gmail.com](mailto:itzritam369@gmail.com)**
 - 📫 Find all my links here: **[My Links](https://linktr.ee/Ritamsworkspace137)**
 - 🌟 Pronouns: **He/Him**
 - ⚡ Fun fact: I love to watch Sci-fi movies in my free time
@@ -17,7 +17,7 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,js)](https://skillicons.dev)
 
 
 <h2>Frameworks/Libraries<h2/>
@@ -37,7 +37,7 @@
 
 <h2>Tools</h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vite,warp,npm,bun,notion,canva)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vite,npm,bun,warp,notion,canva)  
 
 
 <h2>Familiar Operating Systems<h2/>
