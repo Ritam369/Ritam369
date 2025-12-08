@@ -32,7 +32,7 @@
 
 <h2>IDEs</h2>  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,zed)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,helix,zed)
 
 
 <h2>Tools</h2>
