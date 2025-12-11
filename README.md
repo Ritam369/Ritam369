@@ -59,7 +59,7 @@
 
 
   <div style="margin: 20px 0">
-    <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
+    <!-- <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
       <tr>
         <td style="text-align: center; padding: 10px">
           <a href="https://git.io/streak-stats">
@@ -101,7 +101,7 @@
           </a>
         </td>
       </tr>
-    </table>
+    </table> -->
     <table style="width: 100%; margin-bottom: 20px; border: 1px solid #555">
       <tr>
         <td style="text-align: center; padding: 10px">
