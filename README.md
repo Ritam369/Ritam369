@@ -32,12 +32,12 @@
 
 <h2>IDEs</h2>  
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,vim,helix,zed)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=vscode,zed,vim,helix)
 
 
 <h2>Tools</h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vite,npm,bun,warp,notion,canva)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,postman,vite,npm,bun,warp,notion,canva)  
 
 
 <h2>Familiar Operating Systems<h2/>
