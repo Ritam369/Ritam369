@@ -42,7 +42,7 @@
 
 <h2>Familiar Operating Systems<h2/>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,ubuntu,centos,android)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=windows,nixos,ubuntu,centos,android)
 
 
 # 🌐 Connect with Me
