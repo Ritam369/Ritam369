@@ -50,6 +50,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=vercel&logoColor=white)](https://www.ritamsaha.me/)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/saharitam963)
 [![Dev.to](https://img.shields.io/badge/Dev.to-black?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ritam369)
+[![CoderLegion](https://coderlegion.com/cl_badge_logo1.png)](https://coderlegion.com/user/Ritam137)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritamsaha137)
 [![Facebook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100080013277806&mibextid=ZbWKwL)
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_r_i_t_a_m_s_a_h_a_/)
