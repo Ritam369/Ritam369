@@ -20,9 +20,9 @@
 [![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,js)](https://skillicons.dev)
 
 
-<h2>Frameworks/Libraries<h2/>
+<h2>Runtime/Frameworks/Libraries<h2/>
   
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=react,nodejs,expressjs&perline=12)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,expressjs,react&perline=12)
 
 
 <h2>Databases</h2>
@@ -37,7 +37,7 @@
 
 <h2>Tools</h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,postman,vite,npm,bun,warp,notion,canva)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,postman,vite,warp,notion,canva)  
 
 
 <h2>Familiar Operating Systems<h2/>
