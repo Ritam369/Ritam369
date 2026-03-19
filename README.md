@@ -7,7 +7,7 @@
 - 👯 Looking to collaborate on **Web development projects**, **Open Source contributions**, and **Hackathons**
 - 💬 Ask me anything about **DSA, Web Dev, or tech journeys** — always happy to connect
 - ✉️ You can contact me at **[itzritam369@gmail.com](mailto:itzritam369@gmail.com)**
-- 📫 Find all my links here: **[My Links](https://links.ritamsaha.me)**
+- 📫 Find all my links here: **[My Links](https://link.ritamsaha.me)**
 - 🌟 Pronouns: **He/Him**
 - ⚡ Fun fact: I love to watch Sci-fi movies in my free time
 
