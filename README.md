@@ -17,17 +17,17 @@
 
 <h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,html,css,js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=c,java,html,css,js,ts)](https://skillicons.dev)
 
 
 <h2>Runtime/Frameworks/Libraries<h2/>
   
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=nodejs,bun,expressjs,react&perline=12)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,react&perline=12)
 
 
-<h2>Databases</h2>
+<h2>Databases & ORMs</h2>
   
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb,drizzle,mongoose&perline=12)
 
 
 <h2>IDEs</h2>  
@@ -37,7 +37,7 @@
 
 <h2>Tools</h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,postman,vite,warp,notion,canva)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,pnpm,bun,vite,warp,notion,canva)  
 
 
 <h2>Familiar Operating Systems<h2/>
