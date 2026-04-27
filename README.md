@@ -27,7 +27,7 @@
 
 <h2>Databases & ORMs</h2>
   
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb,drizzle,mongoose&perline=12)
+![Databases](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb,drizzle,mongoose,redis&perline=12)
 
 
 <h2>IDEs</h2>  
