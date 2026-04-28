@@ -22,7 +22,7 @@
 
 <h2>Runtime/Frameworks/Libraries<h2/>
   
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,react&perline=12)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,websocket,react&perline=12)
 
 
 <h2>Databases & ORMs</h2>
