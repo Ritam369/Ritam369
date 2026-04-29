@@ -22,7 +22,7 @@
 
 <h2>Runtime/Frameworks/Libraries<h2/>
   
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,websocket,react&perline=12)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,socketio,react&perline=12)
 
 
 <h2>Databases & ORMs</h2>
@@ -37,7 +37,7 @@
 
 <h2>Tools</h2>
 
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,pnpm,bun,vite,warp,notion,canva)  
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=git,pnpm,bun,websocket,kafka,vite,warp,notion,canva)  
 
 
 <h2>Familiar Operating Systems<h2/>
